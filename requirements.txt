@@ -1,7 +1,7 @@
-streamlit
+streamlit==1.35.0
 pandas
 numpy
 scikit-learn
-tensorflow
 plotly
-keras
+tensorflow-cpu==2.15.0
+keras==2.15.0
